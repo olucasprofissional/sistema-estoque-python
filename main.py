@@ -94,5 +94,6 @@ while True:
         print("Programa Encerrado!")
         break
 
+
     else:
         print("Opção inválida...")
